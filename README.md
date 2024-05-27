@@ -7,9 +7,9 @@ Who Should Attend: Solution Architects, Solution Engineer, Cloud Product Manager
 
 Your should have provisioned 3 EKS Clusters in the lab already. Let's get started by preparing the EKS clusters for installing Kasten K10.
 
-Step 1: [Preparing the EKS Cluster](https://github.com/munsw/K10-and-EKS-Blueprints-Lab/new/main#preparing-the-eks-cluster)
+Step 1: [Preparing the EKS Cluster] (https://github.com/munsw/K10-and-EKS-Blueprints-Lab/blob/main/preparing%20the%20EKS%20cluster.md)
 
-Step 2: [Installing Kasten K10] (https://github.com/munsw/K10-and-EKS-Blueprints-Lab/new/main#installing-kasten-k10)
+Step 2: [Installing Kasten K10] (https://github.com/munsw/K10-and-EKS-Blueprints-Lab/blob/main/Installing%20Kasten.md)
 
 ### Swtiching between different EKS cluster in Cloud9/bash
 [Switching between different EKS Cluster in your Terminals](https://github.com/munsw/K10-and-EKS-Blueprints-Lab/blob/main/3eksenv.md))

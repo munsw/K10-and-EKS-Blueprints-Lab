@@ -12,5 +12,5 @@ Step 1: [Preparing the EKS Cluster](https://github.com/munsw/K10-and-EKS-Bluepri
 Step 2: [Installing Kasten K10] (https://github.com/munsw/K10-and-EKS-Blueprints-Lab/new/main#installing-kasten-k10)
 
 ### Swtiching between different EKS cluster in Cloud9/bash
-[Switching between different EKS Cluster in your Terminals](https://github.com/munsw/K10-and-EKS-Blueprints-Lab/new/main#switching-between-different-eks-cluster-in-your-cloud9-bash-terminals)
+[Switching between different EKS Cluster in your Terminals](https://github.com/munsw/K10-and-EKS-Blueprints-Lab/blob/main/3eksenv.md))
 

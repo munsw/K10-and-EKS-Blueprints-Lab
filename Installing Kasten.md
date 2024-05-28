@@ -42,6 +42,12 @@ kubectl --namespace kasten-io create token k10-k10 --duration=24h
 ```
 ## Pacman
 Install Pacman and deploy with AWS ELB
+
+Add Pacman repo
+```
+helm repo add pacman https://shuguet.github.io/pacman/
+```
+Install Pacman
 ```
 helm install pacman pacman/pacman -n pacman --create-namespace \
     --set service.type=LoadBalancer
